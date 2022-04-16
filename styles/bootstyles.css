@@ -1,0 +1,8 @@
+
+
+.navigation{text-align: center ;background-color: rgb(80, 147, 224);}
+.tableau{margin-left: 100px; margin-right: 100px; margin-top: 100px; margin-bottom: 100px; background-color: rgb(211, 123, 137);}
+.footer{border: 5px;border-color: blueviolet}
+body{background-color:rgb(211, 123, 137)}
+a:visited{color:white; text-decoration: normal;}
+.tableautext{font-family:serif;}
